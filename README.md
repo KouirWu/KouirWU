@@ -81,7 +81,7 @@
 ## 📝 其他
 
 - 欢迎讨论 **Vue3** / **前端工程化** 相关技术问题  
-- 技术咨询或项目合作 → `qq645477032@gmain.com`  
+- 技术咨询或项目合作 → `qq645477032@gmail.com`  
 - 开源贡献欢迎提交 PR 到 [KouirWu]https://github.com/KouirWu
 
 
