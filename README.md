@@ -1,6 +1,6 @@
 <img src="https://github-immortality.vercel.app/api?username=KouirWu" alt="IceEnd's GitHub stats" style="width: 100%;">
 
-# Hi Bro ！👋 It's me! 季禾! 欢迎来到我的Github主页！
+# Hi Bro ！👋 It's me! 季禾! 欢迎来到我的Github！
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KouirWu/KouirWu/output/github-contribution-grid-snake-dark.svg">
