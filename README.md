@@ -1,4 +1,4 @@
-![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=KouirWu)
+<img src="https://github-immortality.vercel.app/api?username=KouirWu" alt="IceEnd's GitHub stats" style="width: 100%;">
 # 你好 👋 我是季禾
 
 
