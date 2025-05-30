@@ -1,4 +1,3 @@
-<img src="https://github-immortality.vercel.app/api?username=KouirWu" alt="IceEnd's GitHub stats" style="width: 100%;">
 
 # Hi Bro ！👋 It's me! 季禾! 欢迎来到我的Github！
 
@@ -94,3 +93,5 @@
 ---
 
 > "当你身处深渊退无可退时，眼前就只有一条向上的路"
+> 
+<img src="https://github-immortality.vercel.app/api?username=KouirWu" alt="IceEnd's GitHub stats" style="width: 100%;">
